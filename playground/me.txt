@@ -1,5 +1,0 @@
-{{#user}
-Name: ABHINAV KUMAR
-Skills: HTML, CSS, JS, Node.js , ReactJS , Express.js , MongoDB , SQLite , Django , Django-rest-framework
-Email: igabhinav.official@gmail.com
-{{/user}}
